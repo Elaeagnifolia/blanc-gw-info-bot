@@ -12,3 +12,7 @@ Basic Discord bot that reads from a Google spreadsheet specific to Blanc Granblu
     * google-api-python-client
     * dotenv
 
+## References
+
+* https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-in-python-on-ubuntu-20-04#step-6-deploying-to-ubuntu-20-04
+* https://denisluiz.medium.com/python-with-google-sheets-service-account-step-by-step-8f74c26ed28e
