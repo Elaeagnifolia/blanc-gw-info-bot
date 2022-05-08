@@ -1,6 +1,6 @@
 # blanc-gw-info-bot
 
-Basic Discord bot that reads from a Google spreadsheet specific to Blanc Granblue crew and DMs that info the the user requestee.
+Basic Discord bot that reads from a Google spreadsheet specific to Blanc Granblue crew and DMs that info to the user requestee.
 
 ## Requirements
 
