@@ -4,6 +4,7 @@ Basic Discord bot that reads from a Google spreadsheet specific to Blanc Granblu
 
 ## Requirements
 
+* Discord Bot Credentials
 * Google Sheets Service Account (and JSON credentials)
 * pip install
     * pycord
